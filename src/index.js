@@ -6,7 +6,7 @@ const middlewares = jsonServer.defaults();
 require("dotenv").config();
 
 server.use(function (req, res, next) {
-  setTimeout(next, 200);
+  setTimeout(next, 100);
 });
 server.use(middlewares);
 server.use(router);
