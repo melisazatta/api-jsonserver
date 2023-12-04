@@ -74,7 +74,7 @@
     {
       "name": "Phoebe",
       "lastName": "Buffay",
-      "email": "fb@mail.com",
+      "email": "pbm@mail.com",
       "id": 6
     },
     {
@@ -82,6 +82,12 @@
       "lastName": "Green",
       "email": "rg@mail.com",
       "id": 7
+    },
+    {
+      "name": "Gunther",
+      "lastName": "CPerk",
+      "email": "gc@mail.com",
+      "id": 8
     }
   ],
   "courses": [
@@ -137,6 +143,11 @@
       "courseId": 1699656841700,
       "studentId": 1,
       "id": 7
+    },
+    {
+      "courseId": 1699656841700,
+      "studentId": 8,
+      "id": 8
     }
   ]
 }
